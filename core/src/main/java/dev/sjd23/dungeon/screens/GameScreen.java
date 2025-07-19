@@ -1,4 +1,4 @@
-package dev.sjd23.dungeon;
+package dev.sjd23.dungeon.screens;
 
 import com.badlogic.gdx.Screen;
 
